@@ -1,1 +1,3 @@
-https://cdn.staticaly.com/gh/flytam/tv-source/main/xxx
+https://blog.flytam.vip/tvbox-source/tv.json
+
+https://blog.flytam.vip/tvbox-source/live.m3u
